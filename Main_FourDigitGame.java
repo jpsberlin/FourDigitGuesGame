@@ -1,3 +1,7 @@
+package fourdigitgame_jp;
+
+import java.util.Scanner;
+
 public class Main_FourDigitGame_JP {
 
     
